@@ -1,0 +1,16 @@
+1 + 1
+2+2
+4+4
+install.packages(c("tidyverse", "broom", "car", "corrplot"))
+library(tidyverse)
+library(broom)
+library(car)
+library(corrplot)
+library(tidyverse)
+library(car)
+library(corrplot)
+library(corrplot)
+q()
+library(tidyverse)
+save.image("C:\\Users\\ephra\\Downloads\\music-recommendation-system\\music-recommendation-system\\R analysis")
+music <- read_csv("data/processed/cleaned_tracks.csv", show_col_types = FASLE)
